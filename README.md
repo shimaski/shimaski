@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como suporte técnico jr na algartech
 - 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
 - 📌futuramente ir para react!
-- 
+
 
 <div>
   <a href="https://github.com/shimaski">
