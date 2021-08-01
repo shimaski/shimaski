@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como suporte técnico jr na algartech
 - 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
 - 📌futuramente ir para react!
+- 
 
 <div>
   <a href="https://github.com/shimaski">
@@ -24,4 +25,4 @@
   <a href="https://www.linkedin.com/in/adriel-shimaski-alves-da-cruz-82725982" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-  
+
