@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como suporte técnico jr na algartech
 - 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
-- 📌futuramente ir para react!
+- 📌futuramente irei  para o  react!
 
 <div>
   <a href="https://github.com/shimaski">
@@ -19,7 +19,7 @@
   <img align="right" alt="Rafa-gif" src="https://i.ibb.co/b2TpFQK/download20210706224543.png">
 </div>
 
-  ##
+  ## Contate - me 
   
 <div>
   <a href = "mailto:adriel889alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
