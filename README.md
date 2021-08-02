@@ -4,7 +4,6 @@
 - 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
 - 📌futuramente ir para react!
 
-
 <div>
   <a href="https://github.com/shimaski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,6 +14,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    
   <img align="right" alt="Rafa-gif" src="https://i.ibb.co/b2TpFQK/download20210706224543.png">
 </div>
 
@@ -27,3 +28,8 @@
   
 
 <img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="animation-300-krt9oba8" border="0">
+  
+  <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/shimaski/shimaski"></a> hipsters and nerds have come here o/
+</p>
+  <img height="120" alt="Obrigado por vistar meu perfil" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
