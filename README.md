@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     
-  <img align="right" alt="Rafa-gif" src="https://i.ibb.co/b2TpFQK/download20210706224543.png">
+  
 </div>
 
   ## Contate - me 
