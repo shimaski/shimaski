@@ -4,9 +4,9 @@
 - 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
 - 📌futuramente irei  para o  react!
 
-<div>
+<div margin="250px">
   <a href="https://github.com/shimaski">
-  <img height="180em" margin"30px" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="225em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
