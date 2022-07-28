@@ -7,8 +7,17 @@
 <div>
   <a href="https://github.com/shimaski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img align="center" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&layout=compac"/>
+   <img  width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&layout=compac"/>
 </div>
+  
+  <div> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
