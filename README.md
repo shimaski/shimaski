@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/adriel-shimaski-alves-da-cruz-82725982" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-
+<div width"250px">
 <img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="animation-300-krt9oba8" border="0">
-  
+  </div>
  <img height="120" alt="Obrigado por vistar meu perfil" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
   <a href="#"><img src="https://badges.pufler.dev/visits/shimaski/shimaski></a>
 </p>
