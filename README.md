@@ -31,6 +31,6 @@
 <img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="animation-300-krt9oba8" border="0">
   </div>
   
- <img height="120" alt="Obrigado por vistar meu perfil" width="100%" src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" />
+  <p>
   <a href="#"><img src="https://badges.pufler.dev/visits/shimaski/shimaski></a>
 </p>
