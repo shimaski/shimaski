@@ -1,26 +1,34 @@
-## 👋 Olá! Eu sou o Adriel Shimaski
+---
 
-Sou apaixonado por tecnologia e atualmente foco meu tempo em **programação**, **Linux**, **Termux**, **pentest** e **cibersegurança**.  
-Trabalho como **Suporte Técnico Jr na Algar Tech**, sempre buscando evoluir e transformar conhecimento em prática.
+# 👋 Olá, eu sou o Adriel Shimaski
+
+Sou apaixonado por tecnologia e atualmente me dedico ao estudo e prática de **programação**, **Linux**, **Termux**, **pentest** e **cibersegurança**.  
+Trabalho como **Analista de Suporte Jr.**, sempre buscando evoluir, aprender e transformar conhecimento em prática.
+
+---
 
 ### 🚀 O que estou estudando no momento
-- Conceitos de segurança ofensiva (CTF, pentest, exploração)
-- Em breve, iniciando estudo em **React**
+
+- **Segurança ofensiva**: CTFs, pentest, exploração e outras técnicas de hacking ético
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+Aqui estão algumas das tecnologias que eu utilizo e estou aprendendo:
+
+<div style="display: inline_block">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ---
 
 ### 📊 GitHub Stats
+
+Aqui estão algumas estatísticas do meu GitHub para você acompanhar meu progresso:
 
 <div align="center">
   <a href="https://github.com/shimaski">
@@ -31,7 +39,9 @@ Trabalho como **Suporte Técnico Jr na Algar Tech**, sempre buscando evoluir e t
 
 ---
 
-### 📫 Contate-me
+### 📫 Vamos conversar!
+
+Fique à vontade para me contatar através dos canais abaixo:
 
 <div>
   <a href="mailto:adriel889alves@gmail.com" target="_blank">
@@ -47,3 +57,7 @@ Trabalho como **Suporte Técnico Jr na Algar Tech**, sempre buscando evoluir e t
 <div align="center">
   <img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="gif" width="300">
 </div>
+
+---
+
+Esse README tem uma estrutura clara, destacando suas habilidades, ferramentas que utiliza, seus estudos atuais e também oferece formas de contato. Ele está otimizado tanto para apresentar suas capacidades quanto para mostrar seu engajamento na área de tecnologia e cibersegurança.
