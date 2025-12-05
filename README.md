@@ -1,36 +1,51 @@
-## Olá! Eu sou o Adriel shimaski
+## 👋 Olá, eu sou o Adriel Shimaski
 
-- 🔭 Hoje trabalho como suporte técnico jr na algartech
-- 🌱 Estudando programação, atualmente iniciei os estudos em  javascript.
-- 📌futuramente irei  para o  react!
+- 💻 Atualmente trabalho como **Suporte Técnico Jr na Algar Tech**
+- 🐧 Estudando **Linux, Termux, Pentest e Cibersegurança**
+- 🚀 Objetivo: atuar com **segurança ofensiva** e desenvolvimento voltado para **sec tools**
 
-<div margin="250px">
+---
+
+<div align="center">
   <a href="https://github.com/shimaski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="225em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
-  ## Contate - me 
-  
-<div>
-  <a href = "mailto:adriel889alves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrielshimaski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+### 🛠️ Tech Stack que estou usando/estudando
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
-  
-<div width"250px">
-<img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="animation-300-krt9oba8" border="0">
-  </div>
-  
-  <p>
-  <a href="#"><img src="https://badges.pufler.dev/visits/shimaski/shimaski></a>
+
+---
+
+### 📫 Contato
+
+<div>
+  <a href="mailto:adriel889alves@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/adrielshimaski/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.ibb.co/sP6Wx57/animation-300-krt9oba8.gif" alt="animation-300-krt9oba8" border="0">
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shimaski&label=Profile%20views&color=0e75b6&style=flat" alt="shimaski" />
 </p>
