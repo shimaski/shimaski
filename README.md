@@ -1,13 +1,16 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Adriel Shimaski
-i=linux,bash,python,js,html,css,git,github,vscodecom/ghpvc/?username=adrielshimaski&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Linux+%7C+Termux+%7C+Pentest;Ethical+Hacking+Enthusiast;Always+Learning+New+Things" />
+
+<img src="https://komarev.com/ghpvc/?username=shimaski&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 💻 Apaixonado por tecnologia e cibersegurança  
 🛡️ Estudante de Defesa Cibernética  
@@ -17,7 +20,7 @@ i=linux,bash,python,js,html,css,git,github,vscodecom/ghpvc/?username=adrielshima
 
 ---
 
-## 🧠 Atualmente estudando
+# 🧠 Atualmente estudando
 
 - Segurança Ofensiva
 - Pentest Web
@@ -29,7 +32,7 @@ i=linux,bash,python,js,html,css,git,github,vscodecom/ghpvc/?username=adrielshima
 
 ---
 
-## ⚒️ Tecnologias e Ferramentas
+# ⚒️ Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -39,39 +42,39 @@ i=linux,bash,python,js,html,css,git,github,vscodecom/ghpvc/?username=adrielshima
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielshimaski&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielshimaski&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adrielshimaski&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shimaski&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Snake Contributions
+# 🐍 Snake Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adrielshimaski/adrielshimaski/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/shimaski/shimaski/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-## 🌐 Contato
+# 🌐 Contato
 
 <div align="center">
 
@@ -87,19 +90,21 @@ i=linux,bash,python,js,html,css,git,github,vscodecom/ghpvc/?username=adrielshima
 
 ---
 
-## 💻 Ambiente
+# 💻 Ambiente
 
 ```bash
 OS: Linux / Windows
 Editor: VSCode
 Focus: Cybersecurity & Pentest
 Learning: Offensive Security
+```
 
+---
 
-<div align="center"> <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/> </div>
 <div align="center">
-⚡ “Knowledge is power, especially in cybersecurity.”
-</div> ```
 
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
 
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&hide_border=true"/>
+### ⚡ "Knowledge is power, especially in cybersecurity."
+
+</div>
