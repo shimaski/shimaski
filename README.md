@@ -41,17 +41,21 @@
 </div>
 
 ---
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shimaski&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaski&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimaski&theme=tokyonight"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimaski&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shimaski&theme=tokyonight&utcOffset=-3"/>
+
+</div>
 ---
 
 # 🔥 Sequência de Contribuições
