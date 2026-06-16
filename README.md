@@ -73,11 +73,11 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shimaski/shimaski/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
+
+### ⚡ "Knowledge is power, especially in cybersecurity."
 
 </div>
 
@@ -110,11 +110,4 @@ Learning: Offensive Security
 
 ---
 
-<div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
-
-### ⚡ "Knowledge is power, especially in cybersecurity."
-
-</div>
-```
