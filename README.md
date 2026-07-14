@@ -110,12 +110,7 @@ Learning: Offensive Security
 
 ---
 
-
-
-<div align="center">
-
-
-              █                                                   █
+             █                                                   █
            ██         █                                        ██          █
            ██        ███                                       ██         ███
            ██         █                                        ██          █
@@ -134,6 +129,11 @@ Learning: Offensive Security
                  █
                 █
                █
+ TextPaint.com
+
+
+
+  
 
 
 `> cat /etc/shimaski.conf`
