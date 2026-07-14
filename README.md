@@ -14,7 +14,7 @@
       ░    ░  ░  ░  ░         ░         ░        ░  ░  ░     ░
 ```
 
-### `> cat /etc/shimaski.conf`
+`> cat /etc/shimaski.conf`
 
 </div>
 
@@ -67,7 +67,7 @@
 
 ---
 
-## `> ls ./skills`
+ `> ls ./skills`
 
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
@@ -98,7 +98,7 @@
 
 ---
 
-## `> cat ./pinned-projects.log`
+ `> cat ./pinned-projects.log`
 
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
@@ -123,7 +123,7 @@
 
 ---
 
-## `> neofetch --github`
+ `> neofetch --github`
 
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
@@ -136,9 +136,6 @@
   │                                                                         │
   └─────────────────────────────────────────────────────────────────────────┘
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Linux+%7C+Termux+%7C+Pentest;Ethical+Hacking+Enthusiast;Always+Learning+New+Things" />
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=shimaski&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
