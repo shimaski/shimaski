@@ -225,8 +225,6 @@
 ```
   ┌─────────────────────────────────────────────────────────────────────────┐
   │                                                                         │
-  │   [![](https://komarev.com/ghpvc/?username=shimaski&color=00ff00         │
-  │   &style=for-the-badge&label=PROFILE+VIEWS)]                           │
   │                                                                         │
   │   Thanks for visiting!                                                  │
   │                                                                         │
